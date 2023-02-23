@@ -1,0 +1,62 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "Amazing solare at Cartagena",
+      "description": "One of the best places to live, with an amazing view to the sea",
+      "imgs": [
+        "https://source.unsplash.com/random/?Architecture-Interior&1",
+        "https://source.unsplash.com/random/?Architecture-Interior&2",
+        "https://source.unsplash.com/random/?Architecture-Interior&3"
+      ],
+      "property": {
+        "propertyName": "apartment",
+        "propertyType": "private",
+        "floors": 3,
+        "guests": 4,
+        "beds": 4,
+        "bathrooms": 2,
+        "bedrooms": 4,
+        "showers": 2,
+        "stoves": 2,
+        "kitchens": 1,
+        "backyard": 1,
+        "diningRoom": 1,
+        "basement": 1,
+        "stairs": 2
+      },
+
+      "location": {
+        "country": "Colombia",
+        "state": "Bolivar",
+        "city": "Cartagena",
+        "address": "Avenida Siempre Viva 2146",
+        "zipCode": "S9000",
+        "apartmentFloor": "optinal"
+      },
+
+      "facilities": {
+        "swimmingPool": 1,
+        "wifi": true,
+        "airConditioners": 2,
+        "fans": 2,
+        "tv": 3,
+        "grill": 2,
+        "heater": 2
+      },
+
+      "services": {
+        "parkingLot": true,
+        "temporaryParking": false,
+        "securitySystem": true,
+        "electricity": true,
+        "cookingGas": true,
+        "water": true,
+        "smokeDetector": true,
+        "washingMachine": true,
+        "fireExtinguisher": 2,
+        "firstAidKit": 1
+      }
+    }
+  ]
+}
